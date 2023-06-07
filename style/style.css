@@ -1,0 +1,25 @@
+body {
+    background-color: cornflowerblue;
+    color: whitesmoke;
+}
+main {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.itemContainer {
+    border: 1px solid whitesmoke;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2%;
+    padding: 1em;
+    background: linear-gradient(90deg, rgba(132,199,255,1) 0%, rgba(14,14,215,1) 50%, rgba(132,199,255,1) 100%);
+}
+
+li {
+    padding-bottom: 1em;
+}
