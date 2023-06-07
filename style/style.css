@@ -18,6 +18,7 @@ ul {
     margin-bottom: 2%;
     padding: 1em;
     background: linear-gradient(90deg, rgba(132,199,255,1) 0%, rgba(14,14,215,1) 50%, rgba(132,199,255,1) 100%);
+    border-radius: 15px;
 }
 
 li {
